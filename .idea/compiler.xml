@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-provide-repayment8002" />
+        <module name="cloud-eureka-server7002" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-consumer-order82" />
+        <module name="Springboot-Rabbitmq" />
+        <module name="cloud-consumer-order80" />
+        <module name="cloud-provideconsul-payment8006" />
+        <module name="cloud-provide-repayment8001" />
+        <module name="Springbootd-dubbo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
