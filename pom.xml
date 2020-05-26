@@ -19,6 +19,9 @@
     <module>cloud-consumer-order82</module>
     <module>Springboot-Rabbitmq</module>
       <module>Springbootd-dubbo</module>
+    <module>dubbo-boot-API</module>
+    <module>dubbo-boot-provider</module>
+    <module>dubbo-boot-Consumer</module>
   </modules>
 
   <packaging>pom</packaging>
